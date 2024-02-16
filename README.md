@@ -1,2 +1,2 @@
 # Fullstackopen
-This repository or the Fullstackopen course provided by University Of Helsinki
+This repository is for the Fullstackopen course provided by University Of Helsinki
